@@ -4,7 +4,8 @@ Scripts to unlock Advanced section in Acer AN515-57 Bios
   - Download files
   - Format an usb flash drive in FAT32 GPT
   - Copy files to the flash drive
-  - Restart to bios
+  - Restart and boot from the USB
+
 
 ### Tools used:
  [SmokelessRuntimeEFIPatcher](https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher "SmokelessRuntimeEFIPatcher") </br>
