@@ -15,6 +15,7 @@ Scripts to unlock Advanced section in Acer AN515-57 Bios
 ### Tested on:
 AN515-57
   - i5 11400h rtx3060 BIOS V1.18 and v1.19
+
 AN515-56
   - i5-11300H RTX 3050 BIOS v1.08 - Showing just few additional sections (GPU select, Boot sound .. No Aditional Advanced Section)
  
